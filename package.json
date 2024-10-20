@@ -1,12 +1,10 @@
 {
   "name": "swiftui-example",
-  "title": "SwiftUI Example",
   "version": "1.0.1",
   "private": true,
   "description": "SwiftUI by Example",
   "scripts": {
-    "start": "idoc --watch",
-    "build": "idoc"
+    "start": "node scripts/build.mjs"
   },
   "repository": {
     "type": "git",
@@ -16,6 +14,7 @@
   "license": "MIT",
   "homepage": "https://jaywcjlove.github.io/swiftui-example",
   "devDependencies": {
-    "idoc": "^1.29.0"
+    "markdown-to-html-cli": "~3.4.4",
+    "recursive-readdir-files": "~2.0.7"
   }
 }

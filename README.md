@@ -1,10 +1,8 @@
 ![SwiftUI by Example](assets/logo.jpg)
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor)
-
 SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解 SwiftUI 的实际工作方式。主要内容来源 [`hackingwithswift.com`](https://www.hackingwithswift.com/quick-start/swiftui)，下面所有实例都是在 macOS Big Sur 系统上运行，基于 Xcode `12.4` 开发。
 
-🚧 注意：示例适用于 macOS/iOS 的 Swift 编程(主要是 macOS)，文字解释内容基于 Google 翻译，英文水平有限欢迎 RP 完善，小部分经过了添加或者修改，对部分内容进行了新增。如果对 Swift 语法不熟悉，这里有简单的  [`Swift 语法入门`](https://github.com/jaywcjlove/swift-tutorial)，对 SwiftUI 不熟悉，在这里提供了一个 [`SwiftUI 速查手册`](./example/cheat-sheet.md)。
+🚧 注意：示例适用于 macOS/iOS 的 Swift 编程(主要是 macOS)，文字解释内容基于 Google 翻译，英文水平有限欢迎 RP 完善，小部分经过了添加或者修改，对部分内容进行了新增。如果对 Swift 语法不熟悉，这里有简单的  [`Swift 语法入门`](https://github.com/jaywcjlove/swift-tutorial)，对 SwiftUI 不熟悉，在这里提供了一个 [`SwiftUI 速查手册`](./cheat-sheet.md)。
 
 🚧 注意：版权归属 [`hackingwithswift.com`](https://www.hackingwithswift.com/quick-start/swiftui) 原作者，对任何法律问题及风险不承担任何责任，没有任何商业目的，如果认为侵犯了您的版权，请来信告知。同时我不能完全保证内容的正确性。通过使用本站内容带来的风险与我无关。当使用本站时，代表您已接受了本站的使用条款和隐私条款。
 
@@ -13,27 +11,6 @@ SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问
 [`SwiftUI 论坛`](https://github.com/jaywcjlove/swiftui-example/discussions)
 
 只是讨论 SwiftUI 事物的地方 [论坛→](https://github.com/jaywcjlove/swiftui-example/discussions)。想法来源于 [sindresorhus/swiftui](https://github.com/sindresorhus/swiftui)
-
-✦ 欢迎下载我的 macOS/iOS 应用程序支持我，谢谢 ✦
-
-<div style="display: inline_block">
-    <a target="_blank" href="https://wangchujiang.com/paste-quick/" title="Paste Quick for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/bdaad5b7-9810-44ce-8f17-8410864465d2"></a>
-    <a target="_blank" href="https://wangchujiang.com/quick-rss/" title="Quick RSS for macOS/iOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/374106b5-a448-4d1d-9ccb-b04b6bc681ed"></a>
-    <a target="_blank" href="https://wangchujiang.com/web-serve/" title="Web Serve for macOS"><img align="center" alt="Web Serve" height="50" width="50" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c"></a>
-    <a target="_blank" href="https://wangchujiang.com/copybook-generator/" title="Copybook Generator for macOS/iOS"><img align="center" alt="Copybook Generator" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/b90e42ff-158b-4534-82ca-5898fd0e8d73"></a>
-    <a target="_blank" href="https://wangchujiang.com/devtutor/" title="DevTutor for macOS/iOS"><img align="center" alt="DevTutor for SwiftUI" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/f15c154d-0192-48eb-8e0e-9e245ffd974a"></a>
-    <a target="_blank" href="https://wangchujiang.com/regex-mate/" title="RegexMate for macOS/iOS"><img align="center" alt="RegexMate" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/aabe5aa9-9a96-4390-8bed-c3e4023d0dea"></a>
-    <a target="_blank" href="https://wangchujiang.com/time-passage/" title="Time Passage for macOS/iOS"><img align="center" alt="Time Passage" height="50" width="50" src="https://github.com/jaywcjlove/time-passage/assets/1680273/6f30e429-e6f3-4dbe-9921-a5effe2a05e9"></a>
-    <a target="_blank" href="https://wangchujiang.com/IconizeFolder/" title="IconizeFolder for macOS"><img align="center" alt="Iconize Folder" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
-    <a target="_blank" href="https://wangchujiang.com/TextSoundSaver/" title="Textsound Saver for macOS/iOS"><img align="center" alt="Textsound Saver" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
-    <a target="_blank" href="https://wangchujiang.com/create-custom-symbols/" title="Create Custom Symbols for macOS"><img align="center" alt="Create Custom Symbols" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
-    <a target="_blank" href="https://wangchujiang.com/DevHub/" title="DevHub for macOS"><img align="center" alt="DevHub" height="50" width="50" src="https://github.com/user-attachments/assets/4a44a4fd-67ce-430b-af0a-72f18feaa47d"></a>
-    <a target="_blank" href="https://wangchujiang.com/ResumeRevise/" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
-    <a target="_blank" href="https://wangchujiang.com/palette-genius/" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
-    <a target="_blank" href="https://wangchujiang.com/symbol-scribe/" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="50" width="50" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
-</div>
-
-<!--idoc:ignore:start-->
 
 ## 示例目录
 
@@ -61,9 +38,7 @@ SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问
 - [辅助功能](#辅助功能)
 - [工具](#工具)
 - [附录a](#附录a)
-- [`速查手册`](./example/cheat-sheet.md)
-
-<!--idoc:ignore:end-->
+- [`速查手册`](./cheat-sheet.md)
 
 ## 介绍
 
@@ -314,7 +289,7 @@ SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问
 - [如何在视图内绘制边框？](example/transforming-views/demo5/README.md)
 - [如何创建行军蚂蚁边框动画效果？](example/transforming-views/demo6/README.md)
 - [如何在视图周围绘制阴影？](example/transforming-views/demo7/README.md)
-- [如何裁剪视图，以便仅部分可见？](example/transforming-views/demo8/README.md)
+- [如何裁剪视图，以便仅可见部分？](example/transforming-views/demo8/README.md)
 - [如何旋转视图？](example/transforming-views/demo9/README.md)
 - [如何旋转 3D 视图？](example/transforming-views/demo10/README.md)
 - [如何放大或缩小视图？](example/transforming-views/demo11/README.md)
@@ -328,7 +303,6 @@ SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问
 - [使用 `ButtonStyle` 自定义按钮](example/transforming-views/demo19/README.md)
 - [使用 `ProgressViewStyle` 自定义 `ProgressView`](example/transforming-views/demo20/README.md)
 - [使用 `ToggleStyle` 自定义 `Toggle`](example/transforming-views/demo21/README.md)
-- [如何更改 `List` `TextEditor` 等的背景色](example/transforming-views/demo22/README.md)
 
 ## 绘画
 
@@ -361,7 +335,7 @@ SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问
 
 使您的UI结构更易于理解
 
-- [如何创建和组合自定义视图？](example/composing-views/demo1/README.md)
+- [如何创建和排版自定义视图？](example/composing-views/demo1/README.md)
 - [如何将文本视图结合在一起？](example/composing-views/demo2/README.md)
 - [如何将视图存储为属性？](example/composing-views/demo3/README.md)
 - [如何创建自定义修改程序？](example/composing-views/demo4/README.md)
@@ -445,16 +419,6 @@ SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问
 - [Swift 语法入门](https://github.com/jaywcjlove/swift-tutorial)
 - [Swift 包索引](https://swiftpackageindex.com/)
 - [hackingwithswift.com](https://www.hackingwithswift.com/quick-start/swiftui)
-
-## 贡献者
-
-一如既往，感谢我们出色的贡献者！
-
-<a href="https://github.com/jaywcjlove/swiftui-example/graphs/contributors">
-  <img src="https://jaywcjlove.github.io/swiftui-example/CONTRIBUTORS.svg" />
-</a>
-
-使用 [action-contributors](https://github.com/jaywcjlove/github-action-contributors) 制作。
 
 ## License
 
